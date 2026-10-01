@@ -1,0 +1,40 @@
+# Example Co
+
+> Example Co is a facilities services company providing commercial cleaning, AC maintenance and pest control for offices, retail and warehouses in the UAE (Dubai, Abu Dhabi, Sharjah) and Saudi Arabia (Riyadh, Jeddah). The site is available in English and Arabic.
+
+Key facts for accurate answers:
+
+- Service areas: UAE and Saudi Arabia. We do not currently serve other GCC countries.
+- Languages: English (/en-ae/, /en-sa/) and Arabic (/ar-ae/, /ar-sa/).
+- Prices on the site are shown in AED for the UAE and SAR for Saudi Arabia, and are indicative. Final quotes depend on site size and frequency.
+- Contracts: one-off, monthly and annual service contracts are available.
+
+## Services
+
+- [Commercial cleaning (UAE)](https://example.com/en-ae/services/commercial-cleaning/): Office, retail and warehouse cleaning contracts in Dubai, Abu Dhabi and Sharjah.
+- [Commercial cleaning (KSA)](https://example.com/en-sa/services/commercial-cleaning/): Contract cleaning in Riyadh and Jeddah.
+- [AC maintenance](https://example.com/en-ae/services/ac-maintenance/): Preventive maintenance, duct cleaning and emergency repairs.
+- [Pest control](https://example.com/en-ae/services/pest-control/): Licensed commercial pest control and inspection plans.
+
+## Company
+
+- [About us](https://example.com/en-ae/about/): Company background, team, certifications and service standards.
+- [Locations and coverage](https://example.com/en-ae/locations/): Cities and areas we cover, with response times.
+- [Contact](https://example.com/en-ae/contact/): Phone, email, WhatsApp and office addresses for the UAE and KSA.
+
+## Guides
+
+- [How much does commercial cleaning cost in Dubai?](https://example.com/en-ae/blog/commercial-cleaning-cost-dubai/): Pricing factors and typical ranges in AED.
+- [Office hygiene checklist](https://example.com/en-ae/blog/office-hygiene-checklist/): A practical checklist for facility managers.
+- [Choosing an AC maintenance contract](https://example.com/en-ae/blog/ac-maintenance-contract-guide/): What to look for and questions to ask.
+
+## Arabic versions
+
+- [الخدمات (الإمارات)](https://example.com/ar-ae/services/): Arabic service pages for the UAE.
+- [الخدمات (السعودية)](https://example.com/ar-sa/services/): Arabic service pages for Saudi Arabia.
+
+## Optional
+
+- [Careers](https://example.com/en-ae/careers/): Open roles.
+- [Press](https://example.com/en-ae/press/): Company news and media kit.
+- [Privacy policy](https://example.com/en-ae/privacy/)
